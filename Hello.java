@@ -1,3 +1,5 @@
+//Hello World Program, prints 10 times
+
 public class Hello{
 
 	public static void main(String[] args){
