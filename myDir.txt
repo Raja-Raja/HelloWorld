@@ -1,0 +1,14 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 0008-FF61
+
+ Directory of C:\Users\raja\temp\HelloWorld
+
+16/09/2024  14:07    <DIR>          .
+06/09/2024  16:01    <DIR>          ..
+06/09/2024  16:01               674 Hello.class
+06/09/2024  16:01               198 Hello.java
+16/09/2024  14:07                 0 myDir.txt
+06/09/2024  15:58                 6 myText.txt
+06/09/2024  16:01                 8 readme.txt
+               5 File(s)            886 bytes
+               2 Dir(s)  220,288,196,608 bytes free
